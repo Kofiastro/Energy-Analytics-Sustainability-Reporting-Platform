@@ -1,4 +1,4 @@
-- [Home](README.md)
+- [Home](/)
 - [GitHub](https://github.com/Kofiastro/Energy-Analytics-Sustainability-Reporting-Platform)
 - [Notebooks](notebooks.md)
 - [Data](data.md)
