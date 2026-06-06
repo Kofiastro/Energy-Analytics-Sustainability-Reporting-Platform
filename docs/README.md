@@ -36,22 +36,22 @@ This consolidated README bundles the content that was previously split across th
 
 ## Executive Summary Dashboard
 
-![Executive Summary](screenshots/1.png)
+![Executive Summary](../screenshots/1.jpg)
 
 
 ## Building Performance Dashboard
 
-![Building Performance](screenshots/2.png)
+![Building Performance](../screenshots/2.jpg)
 
 
 ## Sustainability Dashboard
 
-![Sustainability Dashboard](screenshots/3.png)
+![Sustainability Dashboard](../screenshots/3.jpg)
 
 
 ## Energy Trends Dashboard
 
-![Energy Trends Dashboard](screenshots/4.png)
+![Energy Trends Dashboard](../screenshots/4.jpg)
 
 Description of the Dashboard 
 ## **Dashboard Pages**
