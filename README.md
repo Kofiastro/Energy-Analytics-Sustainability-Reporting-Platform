@@ -53,7 +53,7 @@ The written executive summary is available in [docs/Executive_Report.md](docs/Ex
 
 ## Figure Gallery
 
-The exported charts below live in `reports/figures/` and are embedded here for quick reference.
+The exported charts below live in `reports/figures` and are embedded here for quick reference.
 
 ### 1. Temperature vs Energy Consumption
 
@@ -75,22 +75,22 @@ The exported charts below live in `reports/figures/` and are embedded here for q
 
 ## Executive Summary Dashboard
 
-![Executive Summary](/reports/figures/1.png)
+![Executive Summary](screenshots/1.jpg)
 
 
 ## Building Performance Dashboard
 
-![Building Performance](/reports/figures/2.png)
+![Building Performance](screenshots/2.jpg)
 
 
 ## Sustainability Dashboard
 
-![Sustainability Dashboard](/reports/figures/3.png)
+![Sustainability Dashboard](screenshots/3.jpg)
 
 
 ## Energy Trends Dashboard
 
-![Energy Trends Dashboard](/reports/figures/4.png)
+![Energy Trends Dashboard](screenshots/4.jpg)
 
 Description of the Dashboard 
 ## **Dashboard Pages**
